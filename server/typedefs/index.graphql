@@ -1,0 +1,3 @@
+type Query {
+  sayHi(name: String!): String!
+}

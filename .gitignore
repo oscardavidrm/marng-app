@@ -1,6 +1,6 @@
 # Recursive calls
 **/node_modules
-**.env
+# **.env <--- Uncomment this line to ignore all .env files.
 
 # React app
 app/build
